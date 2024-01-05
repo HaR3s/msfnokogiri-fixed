@@ -26,7 +26,7 @@ solucionar. tambien se corrigen los errores de compatibilidad
 con la libreria libxml2 y otras que puden surgir en el proceso.
 
 
-=========================== NOTA IMPORTANTE =====================
+============ NOTA IMPORTANTE =================
                         
 
 Al clonar el repositorio asegurase de que sea en la carpeta de
@@ -35,14 +35,14 @@ la ruta donde lo haveis clonado esto es importante al igual que
 no se debe renombrar la carpeta que lo contiene.
 
 
-=========================== ATENCIÓN ======================
+============= ATENCIÓN =================
                             
 
 
 Este scrept solo esta pensado y diseñado para usuarios de
 termux por lo cual solo funcionara en termux
 
-========================= Modo de Empleo ======================
+============= Modo de Empleo ================
                      
 
 una vez clonado el repositorio de GitHub acceder a el usando
@@ -76,5 +76,5 @@ ya eso es a gusto de cada cual ggggg.
 
 Pues de aqu en adelante es esperar a que el scrept lo haga todo, sin mas, es eso.
 
-=========== Dicho esto Disfrutad de metasploit-framework =============
+====== Dicho esto Disfrutad de metasploit-framework =========
              
